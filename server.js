@@ -2,6 +2,9 @@ var express = require('express');
 var cors = require('cors');
 const app = express();
 const fs = require('fs');
+require('dotenv').config();
+
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 
@@ -16,4 +19,4 @@ app.get('/', (req, res) => {
     }
   });
 });
-app.listen(3001, () => console.log("Now listening to port 3001"));
+app.listen(PORT, () => console.log("Now listening to port 3001"));
