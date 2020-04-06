@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 1,
+    "name": "Common Butterfly",
+    "start": 4,
+    "end": 19,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 160
+  },
+  {
+    "id": 2,
+    "name": "Yellow Butterfly",
+    "start": 4,
+    "end": 19,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      9
+    ],
+    "price": 160
+  },
+  {
+    "id": 3,
+    "name": "Tiger Butterfly",
+    "start": 4,
+    "end": 19,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 240
+  },
+  {
+    "id": 4,
+    "name": "Peacock Butterfly",
+    "start": 4,
+    "end": 19,
+    "month": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "price": 2500
+  },
+  {
+    "id": 5,
+    "name": "Common Bluebottle",
+    "start": 4,
+    "end": 19,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "price": 300
+  },
+  {
+    "id": 6,
+    "name": "Paper Kite Butterfly",
+    "start": 8,
+    "end": 19,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 1000
+  },
+  {
+    "id": 7,
+    "name": "Great Purple Emperor",
+    "start": 4,
+    "end": 7,
+    "month": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "price": 3000
+  },
+  {
+    "id": 8,
+    "name": "Monarch Butterfly",
+    "start": 4,
+    "end": 17,
+    "month": [
+      8,
+      9,
+      10
+    ],
+    "price": 140
+  },
+  {
+    "id": 9,
+    "name": "Emperor Butterfly",
+    "start": 17,
+    "end": 8,
+    "month": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "price": 4000
+  },
+  {
+    "id": 10,
+    "name": "Agrias Butterfly",
+    "start": 8,
+    "end": 17,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 3000
+  },
+  {
+    "id": 11,
+    "name": "Rajah Brooke's Birdwing",
+    "start": 8,
+    "end": 17,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "price": 2500
+  },
+  {
+    "id": 12,
+    "name": "Queen Alexandra's Birdwing",
+    "start": 8,
+    "end": 16,
+    "month": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "price": 4000
+  },
+  {
+    "id": 13,
+    "name": "Moth",
+    "start": 19,
+    "end": 4,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 130
+  },
+  {
+    "id": 14,
+    "name": "Atlas Moth",
+    "start": 19,
+    "end": 4,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 3000
+  },
+  {
+    "id": 15,
+    "name": "Madagascan Sunset Moth",
+    "start": 8,
+    "end": 16,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 2500
+  },
+  {
+    "id": 16,
+    "name": "Long Locust",
+    "start": 8,
+    "end": 19,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 200
+  },
+  {
+    "id": 17,
+    "name": "Migratory Locust",
+    "start": 8,
+    "end": 19,
+    "month": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 600
+  },
+  {
+    "id": 18,
+    "name": "Rice Grasshopper",
+    "start": 8,
+    "end": 19,
+    "month": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 160
+  },
+  {
+    "id": 19,
+    "name": "Grasshopper",
+    "start": 8,
+    "end": 17,
+    "month": [
+      6,
+      7,
+      8
+    ],
+    "price": 160
+  },
+  {
+    "id": 20,
+    "name": "Cricket",
+    "start": 17,
+    "end": 8,
+    "month": [
+      8,
+      9,
+      10
+    ],
+    "price": 130
+  },
+  {
+    "id": 21,
+    "name": "Bell Cricket",
+    "start": 17,
+    "end": 8,
+    "month": [
+      8,
+      9
+    ],
+    "price": 430
+  },
+  {
+    "id": 22,
+    "name": "Mantis",
+    "start": 8,
+    "end": 17,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 430
+  },
+  {
+    "id": 23,
+    "name": "Orchid Mantis",
+    "start": 8,
+    "end": 17,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 2400
+  },
+  {
+    "id": 24,
+    "name": "Honeybee",
+    "start": 8,
+    "end": 17,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "price": 200
+  },
+  {
+    "id": 25,
+    "name": "Wasp",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 2500
+  },
+  {
+    "id": 26,
+    "name": "Brown Cicada",
+    "start": 8,
+    "end": 17,
+    "month": [
+      6,
+      7
+    ],
+    "price": 250
+  },
+  {
+    "id": 27,
+    "name": "Robust Cicada",
+    "start": 8,
+    "end": 17,
+    "month": [
+      6,
+      7
+    ],
+    "price": 300
+  },
+  {
+    "id": 28,
+    "name": "Giant Cicada",
+    "start": 8,
+    "end": 17,
+    "month": [
+      6,
+      7
+    ],
+    "price": 500
+  },
+  {
+    "id": 29,
+    "name": "Walker Cicada",
+    "start": 8,
+    "end": 16,
+    "month": [
+      7,
+      8
+    ],
+    "price": 400
+  },
+  {
+    "id": 30,
+    "name": "Evening Cicada",
+    "start": 16,
+    "end": 19,
+    "month": [
+      6,
+      7
+    ],
+    "price": 550
+  },
+  {
+    "id": 31,
+    "name": "Cicada Shell",
+    "start": 0,
+    "end": 23,
+    "month": [
+      6,
+      7
+    ],
+    "price": 10
+  },
+  {
+    "id": 32,
+    "name": "Red Dragonfly",
+    "start": 8,
+    "end": 19,
+    "month": [
+      8,
+      9
+    ],
+    "price": 180
+  },
+  {
+    "id": 33,
+    "name": "Darner Dragonfly",
+    "start": 8,
+    "end": 17,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "price": 230
+  },
+  {
+    "id": 34,
+    "name": "Banded Dragonfly",
+    "start": 8,
+    "end": 17,
+    "month": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "price": 4500
+  },
+  {
+    "id": 35,
+    "name": "Damselfly",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      10,
+      11
+    ],
+    "price": 500
+  },
+  {
+    "id": 36,
+    "name": "Firefly",
+    "start": 19,
+    "end": 16,
+    "month": [
+      5
+    ],
+    "price": 300
+  },
+  {
+    "id": 37,
+    "name": "Mole Cricket",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "price": 500
+  },
+  {
+    "id": 38,
+    "name": "Pondskater",
+    "start": 8,
+    "end": 19,
+    "month": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 130
+  },
+  {
+    "id": 39,
+    "name": "Diving Beetle",
+    "start": 8,
+    "end": 19,
+    "month": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 800
+  },
+  {
+    "id": 40,
+    "name": "Giant Water Bug",
+    "start": 19,
+    "end": 8,
+    "month": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 2000
+  },
+  {
+    "id": 41,
+    "name": "Stinkbug",
+    "start": 0,
+    "end": 23,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "price": 120
+  },
+  {
+    "id": 42,
+    "name": "Man-faced Stink Bug",
+    "start": 19,
+    "end": 8,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "price": 1000
+  },
+  {
+    "id": 43,
+    "name": "Ladybug",
+    "start": 8,
+    "end": 17,
+    "month": [
+      2,
+      3,
+      4,
+      5,
+      9
+    ],
+    "price": 200
+  },
+  {
+    "id": 44,
+    "name": "Tiger Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "price": 1500
+  },
+  {
+    "id": 45,
+    "name": "Jewel Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "price": 2400
+  },
+  {
+    "id": 46,
+    "name": "Citrus Long-horned Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 350
+  },
+  {
+    "id": 47,
+    "name": "Rosalia Batesi Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 3000
+  },
+  {
+    "id": 48,
+    "name": "Blue Weevil Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      6,
+      7
+    ],
+    "price": 800
+  },
+  {
+    "id": 49,
+    "name": "Violin Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      4,
+      5,
+      8,
+      9,
+      10
+    ],
+    "price": 450
+  },
+  {
+    "id": 50,
+    "name": "Dung Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      11
+    ],
+    "price": 3000
+  },
+  {
+    "id": 51,
+    "name": "Earth-boring Dung Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      6,
+      7,
+      8
+    ],
+    "price": 300
+  },
+  {
+    "id": 52,
+    "name": "Scarab Beetle",
+    "start": 23,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 10000
+  },
+  {
+    "id": 53,
+    "name": "Drone Beetle",
+    "start": 0,
+    "end": 23,
+    "month": [
+      5,
+      6,
+      7
+    ],
+    "price": 200
+  },
+  {
+    "id": 54,
+    "name": "Goliath Beetle",
+    "start": 17,
+    "end": 8,
+    "month": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 8000
+  },
+  {
+    "id": 55,
+    "name": "Saw Stag",
+    "start": 0,
+    "end": 23,
+    "month": [
+      6,
+      7
+    ],
+    "price": 2000
+  },
+  {
+    "id": 56,
+    "name": "Miyama Stag",
+    "start": 0,
+    "end": 23,
+    "month": [
+      6,
+      7
+    ],
+    "price": 1000
+  },
+  {
+    "id": 57,
+    "name": "Giant Stag",
+    "start": 23,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 10000
+  },
+  {
+    "id": 58,
+    "name": "Rainbow Stag",
+    "start": 19,
+    "end": 8,
+    "month": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 6000
+  },
+  {
+    "id": 59,
+    "name": "Cyclommatus Stag",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 8000
+  },
+  {
+    "id": 60,
+    "name": "Golden Stag",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 12000
+  },
+  {
+    "id": 61,
+    "name": "Giraffe Stag",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 12000
+  },
+  {
+    "id": 62,
+    "name": "Honed Dynastid",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 1350
+  },
+  {
+    "id": 63,
+    "name": "Honed Atlas",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 4800
+  },
+  {
+    "id": 64,
+    "name": "Horned Elephant",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 8000
+  },
+  {
+    "id": 65,
+    "name": "Honed Hercules",
+    "start": 17,
+    "end": 8,
+    "month": [
+      6,
+      7
+    ],
+    "price": 12000
+  },
+  {
+    "id": 66,
+    "name": "Walking Stick",
+    "start": 17,
+    "end": 19,
+    "month": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 600
+  },
+  {
+    "id": 67,
+    "name": "Walking Leaf",
+    "start": 0,
+    "end": 23,
+    "month": [
+      6,
+      7,
+      8
+    ],
+    "price": 600
+  },
+  {
+    "id": 68,
+    "name": "Bagworm",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 600
+  },
+  {
+    "id": 69,
+    "name": "Ant",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 80
+  },
+  {
+    "id": 70,
+    "name": "Hermit Crab",
+    "start": 19,
+    "end": 8,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 1000
+  },
+  {
+    "id": 71,
+    "name": "Wharf Roach",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 200
+  },
+  {
+    "id": 72,
+    "name": "Fly",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 60
+  },
+  {
+    "id": 73,
+    "name": "Mosquito",
+    "start": 17,
+    "end": 4,
+    "month": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "price": 130
+  },
+  {
+    "id": 74,
+    "name": "Flea",
+    "start": 0,
+    "end": 23,
+    "month": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "price": 70
+  },
+  {
+    "id": 75,
+    "name": "Snail",
+    "start": 0,
+    "end": 23,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 250
+  },
+  {
+    "id": 76,
+    "name": "Pill bug",
+    "start": 23,
+    "end": 16,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 250
+  },
+  {
+    "id": 77,
+    "name": "Centipede",
+    "start": 17,
+    "end": 23,
+    "month": "[0,1,2,3,4,5,8,9,10,11",
+    "price": 300
+  },
+  {
+    "id": 78,
+    "name": "Spider",
+    "start": 19,
+    "end": 4,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "price": 480
+  },
+  {
+    "id": 79,
+    "name": "Tarantula",
+    "start": 19,
+    "end": 4,
+    "month": [
+      0,
+      1,
+      2,
+      3,
+      10,
+      11
+    ],
+    "price": 8000
+  },
+  {
+    "id": 80,
+    "name": "Scorpion",
+    "start": 19,
+    "end": 4,
+    "month": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "price": 8000
+  }
+]
